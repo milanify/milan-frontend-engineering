@@ -34,11 +34,11 @@ Here, I created interactive emails (see below). Our team was considered an "Emai
 
 I also proactively created scripts to increase our team's workflow and velocity, since our development was non-traditional (we weren’t developing traditional websites; instead, we had custom IDEs, unique local workflows, and niche code repository architectures to deal with). Fun fact: I was part of a key milestone at Google Store — the brand integration of Google Store and Google Nest products.
 
-INSERT NEST GIF HERE
+![Google Store × Google Nest Integration](./nest-email.gif)
 
 I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
-INSERT KAISER IMAGE HERE, USE <IMG TAG>
+<img src="./kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="600" />
 
 ## Master’s Degree
 
