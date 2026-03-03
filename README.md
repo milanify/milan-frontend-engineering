@@ -44,7 +44,7 @@ After Google, I worked for Kaiser Permanente on React.js frontends. This was my 
 
 While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains — including IoT, distributed systems, machine learning, statistics, and data visualization.
 
-## Mid Career (60% front-end, 40% back-end)
+## Mid Career (70% front-end, 30% back-end)
 
 Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team. I worked on various first-party apps at Zoom, here are sample images of a few of the apps I worked on:
 
@@ -64,10 +64,24 @@ All of these apps were developed with React.js frontends and Node.js backends. A
 
 In addition to building 1st party apps, I also supported 3rd party developers in building their apps — anyone from individual developers to large enterprise companies such as Figma, Notion, and Meta. Furthermore, I worked on a key architectural piece that underpinned the entire platform: the [Zoom Apps JavaScript SDK](https://appssdk.zoom.us/). This is what allows the Zoom Desktop client, written in C++, to interface with all of our JavaScript web apps. I worked on adding new methods to the SDK, deprecating old methods, and publishing releases internally, to NPM, and to GitHub.
 
-## Thoughts And Ideas
+## Conclusion
 
-When using ChatGPT, I noticed that the UI doesn’t have a "Copy" button at the top of the response. This is annoying when you want to copy the response without scrolling down. I understand why they may have designed it this way — the response has to fully generate before it's ideally usable — but first of all, not necessarily. And second, sometimes I type a response, let it generate, come back to it later, and just want to copy it without scrolling all the way down or even reading it. Add "Copy" to the top. Gemini does this, at least.
+Looking across my career arc, there’s a clear throughline: I build user-facing systems that make complex functionality feel simple.
 
-LLMs opened up unique use cases for "flows" we haven’t seen before. People export their data at times. Some people even lose conversation data. Furthermore, storing this information is a mess. It’s tough to store certain parts of responses. Sometimes you want your query stored as well. Sometimes the entire response. Sometimes the raw data of the response without the "LLM character" talking to you text.
+From early browser extensions and desktop apps, to building interactive email frontends at Google Store, to architecting and scaling first-party Zoom Apps from 0 → 1, I’ve consistently worked at the intersection of interface design, frontend infrastructure, and real-world usability. I care deeply about how something feels to use — not just whether it works.
 
-And the evolution of the conversation over time gives emergence to certain vectors in the conversation that dynamically evolve (or devolve) in usefulness over time. There is no simple way of querying or storing this information. I even asked Claude recently to give me a rundown of possible solutions — here is its response if you're interested.
+My early college background is in Electrical Engineering, with a minor in Computer Science. That foundation shaped how I think: first-principles reasoning, systems-level modeling, and a genuine love of engineering and physics. I care about how things work under the hood. I’ve run Linux as my primary desktop in the past, and I’ve worked extensively across Linux, macOS, and Windows. I use both Android and iPhone devices. That cross-platform exposure makes me think carefully about edge cases, OS-level behavior, and how software feels in different environments — not just how it looks in one ideal setup.
+
+I’ve also traveled extensively and experienced different cultures, which has influenced how I approach human-first design. I think a lot about accessibility, design patterns, responsiveness, and small interaction details that compound into trust. At the same time, I care deeply about aesthetics and creativity. I’m drawn to fashion, art, photography, and visual composition — and that shows up in how I approach UI/UX polish. I want things to feel intentional, balanced, and thoughtfully designed. Furthermore, from a fundamental perspective I like exploring philosphical concepts about consciousness, ontology, physics, pure math, and the emergence of complexity from the Big Bang to humanity in the 21st century. [One of my favorite Wikipedia articles is about mathematical beauty.](https://en.wikipedia.org/wiki/Mathematical_beauty)
+
+I’m especially energized by what’s happening in the AI space right now. We’re at a moment where interfaces are evolving, and intelligent systems are becoming part of everyday workflows. The challenge isn’t just technical capability — it’s making powerful systems feel intuitive, responsive, and genuinely useful. That blend of systems thinking, frontend craft, and emerging AI interaction design is where I feel most aligned — and where I’ve naturally been heading for years.
+
+## Random Thoughts and Ideas
+
+From using existing AI solutions, whether mobile, desktop based, or integrated into an IDE, I began noticing certain quirks, issues, and pain points.
+
+More broadly, LLMs have created new kinds of user flows that we haven’t really solved yet. People export conversations. Some lose data (both server-side and client-side). Storing useful parts of a thread is messy. Sometimes you want to save just your prompt. Sometimes the full response. Sometimes the raw structured output without all the conversational text around it.
+
+For example, I sometimes store entire responses or snippets of ChatGPT responses into my Apple Notes app. Over time this has devolved into a huge mess, especially as my conversation with ChatGPT grows itself and I'm adding more data to my note, and old data becomes volatile from a relevancy standopint. Usually I put the link to the chat's URL at the top of the note, and then specific data underneath that.
+
+Conversations also evolve over time. Certain threads become more useful, others drift. But there’s no clean way to query, version, or organize that evolution. I even asked Claude for possible solutions to this problem — happy to share that response if you’re curious.
