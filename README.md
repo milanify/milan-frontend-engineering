@@ -26,7 +26,7 @@ The reason this was necessary is that sometimes you'd plug in your phone to char
 
 [I developed a simple Linux utility](https://github.com/milanify/Ubuntu-Launchpad) that adds a macOS "Launchpad"-style utility to your desktop as an icon.
 
-## Early Career
+## Early Career (80% front-end, 20% back-end)
 
 [I worked for the Google Store team](https://store.google.com/?hl=en-US), Google's e-commerce website for their hardware products. I worked on their email team, iterating on and developing new email frontends. Fun fact: we had 200+ permutations of emails that we kept track of in a Google Sheet!
 
@@ -42,11 +42,11 @@ After Google, I worked for Kaiser Permanente on React.js frontends. This was my 
 
 ## Master’s Degree
 
-While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains, including IoT, distributed systems, machine learning, statistics, and data visualization.
+While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains — including IoT, distributed systems, machine learning, statistics, and data visualization.
 
-## Mid Career
+## Mid Career (60% front-end, 40% back-end)
 
-Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are sample images of a few of the apps I worked on:
+Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team. I worked on various first-party apps at Zoom, here are sample images of a few of the apps I worked on:
 
 <p align="center">
   <img src="./vb-app.png" alt="Virtual Backgrounds App" width="30%" />
@@ -54,13 +54,15 @@ Using all of my career momentum up to this point, I joined Zoom during their pos
   <img src="./group-photo-app.png" alt="Group Photo App" width="30%" />
 </p>
 
-[The first app, Virtual Backgrounds,](https://marketplace.zoom.us/apps/bds99mN4S_i7ktJINgsNXw) allows a user to search for high-quality images and set them as their background. It's a simple and intuitive app for managing images. I built it with responsiveness, infinite scroll, and efficient API querying and data modeling techniques.
+[The first app, Virtual Backgrounds,](https://marketplace.zoom.us/apps/bds99mN4S_i7ktJINgsNXw) allows a user to search for high-quality images and set them as their background. It's a simple and intuitive app for managing images. I built it with responsiveness, infinite scroll, and efficient API querying and data modeling libaries like React-Redux.
 
 [The second app, Timer,](https://marketplace.zoom.us/apps/cXw5IXmqT6SIIBQxgM_PfQ) allows a user to set a timer or stopwatch that gets dynamically drawn onto their video screen for all participants in the meeting. Fun fact: Windows OS and macOS both had system-specific issues I had to debug! I also worked on implementing light mode and dark mode.
 
-[The third app, Group Photo,](https://marketplace.zoom.us/apps/_M-iOa7hQBi0pn3aNhScGg) allows all participants in a meeting to take a picture together. This even scales to a high number of participants (1000+). The most fun part of this project was dealing with the math. I had to determine how to programmatically code an efficient grid of images that maintained proper aspect ratio depending on the number of users. For example, with 2 participants the image is a rectangle. With 4 participants it's still a rectangle. For an odd number of participants, the rows and columns won’t have equal values.
+[The third app, Group Photo,](https://marketplace.zoom.us/apps/_M-iOa7hQBi0pn3aNhScGg) allows all participants in a meeting to take a picture together. This even scales to a high number of participants (1000+). The most fun part of this project was dealing with the math. I had to determine how to programmatically code an efficient grid of images that maintained a proper aspect ratio depending on the number of users. For example, with 2 participants the image is a rectangle. With 4 participants it's a square. For an odd number of participants, the rows and columns won’t have equal values.
 
-All of these apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to local storage.
+All of these apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to browser LocalStorage.
+
+In addition to building 1st party apps, I also supported 3rd party developers in building their apps — anyone from individual developers to large enterprise companies such as Figma, Notion, and Meta. Furthermore, I worked on a key architectural piece that underpinned the entire platform: the [Zoom Apps JavaScript SDK](https://appssdk.zoom.us/). This is what allows the Zoom Desktop client, written in C++, to interface with all of our JavaScript web apps. I worked on adding new methods to the SDK, deprecating old methods, and publishing releases internally, to NPM, and to GitHub.
 
 ## Thoughts And Ideas
 
