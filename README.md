@@ -46,13 +46,21 @@ While working full-time, I earned a Master’s Degree in Computer Science from t
 
 ## Mid Career
 
-Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are some samples:
+Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are sample images of a few of the apps I worked on:
 
 <p align="center">
   <img src="./vb-app.png" alt="Virtual Backgrounds App" width="30%" />
   <img src="./timer-app.png" alt="Timer App" width="30%" />
   <img src="./group-photo-app.png" alt="Group Photo App" width="30%" />
 </p>
+
+[The first app, Virtual Backgrounds,](https://marketplace.zoom.us/apps/bds99mN4S_i7ktJINgsNXw) allows a user to search for high-quality images and set them as their background. It's a simple and intuitive app for managing images. I built it with responsiveness, infinite scroll, and efficient API querying and data modeling techniques.
+
+[The second app, Timer,](https://marketplace.zoom.us/apps/cXw5IXmqT6SIIBQxgM_PfQ) allows a user to set a timer or stopwatch that gets dynamically drawn onto their video screen for all participants in the meeting. Fun fact: Windows OS and macOS both had system-specific issues I had to debug! I also worked on implementing light mode and dark mode.
+
+[The third app, Group Photo,](https://marketplace.zoom.us/apps/_M-iOa7hQBi0pn3aNhScGg) allows all participants in a meeting to take a picture together. This even scales to a high number of participants (1000+). The most fun part of this project was dealing with the math. I had to determine how to programmatically code an efficient grid of images that maintained proper aspect ratio depending on the number of users. For example, with 2 participants the image is a rectangle. With 4 participants it's still a rectangle. For an odd number of participants, the rows and columns won’t have equal values.
+
+All of these apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to local storage.
 
 ## Thoughts And Ideas
 
