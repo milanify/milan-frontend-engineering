@@ -2,47 +2,55 @@
 
 ## Intro
 
-Since the beginning of my software engineering career, I've always been more frontend development oriented. This repo serves as a developmental arc showcase (and a highlight reel) for my frontend knowledge.
+Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge.
 
 ## Pre-Career Side Projects
 
-[I developed a simple browser extension](https://github.com/milanify/Auto-eBay-Feedback) that saves time for people on eBay who want to leave positive feedback efficiently. This is a 1 click solution. Type your feedback once, and it propogates for all your transactions. Using the extension beats manually going through each transaction to leave feedback via eBay's website, which is a click-intensive flow. The extension itself was published on multiple browser marketplaces, and has a simple and intuitive UI. I even received a random $20 donation from it, proving its utitlity.
+[I developed a simple browser extension](https://github.com/milanify/Auto-eBay-Feedback) that saves time for people on eBay who want to leave positive feedback efficiently. This is a 1-click solution. Type your feedback once, and it propagates to all your transactions. Using the extension beats manually going through each transaction to leave feedback via eBay's website, which is a click-intensive flow. The extension was published on multiple browser marketplaces and has a simple, intuitive UI. I even received a random $20 donation from it, proving its utility.
 
-[I developed simple custom styles](https://github.com/milanify/userstyles) that applies CSS styles to popular websites to remove clutter. My mindset was to simplify the UI/UX of common website homepages to make them more "Google-like". Just a simple search bar. I found the user experience to be (subjectively) better, and the lower page clutter increased my focus and attention.
+[I developed simple custom styles](https://github.com/milanify/userstyles) that apply CSS styles to popular websites to remove clutter. My mindset was to simplify the UI/UX of common website homepages to make them more "Google-like." Just a simple search bar. I found the user experience to be (subjectively) better, and the lower page clutter increased my focus and attention.
 
-[I developed a simple Python app](https://github.com/milanify/DownloadArtwork) that allows users to download pictures from Google Images with a 1-click solution. This greatly increases speed to download images, which traditionally is a clunkier and click-intensive process of having to right click the image, save it, choose the save location, and then click save.
+[I developed a simple Python app](https://github.com/milanify/DownloadArtwork) that allows users to download pictures from Google Images with a 1-click solution. This greatly increases the speed of downloading images, which traditionally is a clunkier, click-intensive process: right-clicking the image, saving it, choosing the save location, and then clicking save.
 
-[I developed a simple desktop app](https://github.com/milanify/ForeverNote) for Evernote since none existed at the time. Evernote themselves supportde web only. My desktop app was writtin using JavaFX, a Java frontend frameworok. Also fun fact, Java was my first programming language and is still my favorite! Another fun fact, is that Evernote's lawyers contacted me to shut this project down because they viewed it as "a threat" because they eventually built their own desktop client.
+[I developed a simple desktop app](https://github.com/milanify/ForeverNote) for Evernote since none existed at the time. Evernote themselves supported web only. My desktop app was written using JavaFX, a Java frontend framework. Also, fun fact: Java was my first programming language and is still my favorite! Another fun fact: Evernote's lawyers contacted me to shut this project down because they viewed it as "a threat," since they eventually built their own desktop client.
 
 ## Early Career Side Projects
 
-[I developed a simple Android app](https://github.com/milanify/Android-Fast-Charging-Checker) that lets users know if their phone is fast charging, using a real life audio sound. The UI is a simple toggle, either enable the service or not. When enabled, your phone plays a preset, bundled, custom sound (a double charging sound) when it's fast charging. The reason this was necessary, is that sometimes you'd plug your phone to charge but it wasn't fast charging even if you were using a faster charger, requiring you to re-plug it in. But there was no way of knowing without manually checking the charge state. Furthermore, it's a nice to have so you know when you're intentionally wanting to use a non-fast charger that it's in fact charging at a slower speed.
+[I developed a simple Android app](https://github.com/milanify/Android-Fast-Charging-Checker) that lets users know if their phone is fast charging using a real-life audio sound. The UI is a simple toggle — either enable the service or not. When enabled, your phone plays a preset, bundled custom sound (a double charging sound) when it's fast charging.
 
-[I developed a simple desktop app](https://github.com/milanify/Coinbase-Pro-Desktop) for trading on Coinbase. It's a rudimentary Electron.js wrapper. The project allowed me to excplore different cross-platform desktop frameworks at the time (there were C++ and C# solutions as well), ultimately I chose JavaScript-based for its simplicisty.
+The reason this was necessary is that sometimes you'd plug in your phone to charge but it wasn't fast charging — even if you were using a faster charger — requiring you to re-plug it in. There was no way of knowing without manually checking the charge state. Furthermore, it's a nice-to-have when you're intentionally using a non-fast charger and want confirmation that it's charging at a slower speed.
 
-[I developed a simple Google Workspace extension](https://github.com/milanify/Google-Docs-To-Do-List) that converts a Google Doc into a To-Do List. It allows users, to have a side-bar UI for creating, deleting, and managing their notes. Fun fact, I even ran customer support briefly because I had teachers using it emailing me about bugs!
+[I developed a simple desktop app](https://github.com/milanify/Coinbase-Pro-Desktop) for trading on Coinbase. It's a rudimentary Electron.js wrapper. The project allowed me to explore different cross-platform desktop frameworks at the time (there were C++ and C# solutions as well). Ultimately, I chose a JavaScript-based solution for its simplicity.
 
-[I developed a simple Linux utility](https://github.com/milanify/Ubuntu-Launchpad) that adds a MacOS 'LauchPad' style utility to your desktop as an icon.
+[I developed a simple Google Workspace extension](https://github.com/milanify/Google-Docs-To-Do-List) that converts a Google Doc into a to-do list. It allows users to have a sidebar UI for creating, deleting, and managing their notes. Fun fact: I even ran customer support briefly because I had teachers using it who emailed me about bugs!
+
+[I developed a simple Linux utility](https://github.com/milanify/Ubuntu-Launchpad) that adds a macOS "Launchpad"-style utility to your desktop as an icon.
 
 ## Early Career
 
-[I worked for the Google Store team](https://store.google.com/?hl=en-US), Google's e-commerce website for their hardware products. I worked on their email team, iterating on and developing new email front-ends. Fun fact, we had 200+ permutations of emails that we kept track of in a Google Sheet! Here, I created interactive emails, see below. Our team was considered an "Email Engineering" team. It was a fun dynamic team and I got to work across Product, Marketing, Design, and Engineering teams to create scalable, branded UI/UX experiences. I also proactively created scripts to increase our team's workflow and velocity, since our development was non-traditional (since we weren't developing websites, we instead had custom IDE's, unique local workflows, and niche code repository architectures to deal with). Fun fact: I was part of a key milestone at Google Store, the brand integration from Google Store and Google Nest products.
+[I worked for the Google Store team](https://store.google.com/?hl=en-US), Google's e-commerce website for their hardware products. I worked on their email team, iterating on and developing new email frontends. Fun fact: we had 200+ permutations of emails that we kept track of in a Google Sheet!
+
+Here, I created interactive emails (see below). Our team was considered an "Email Engineering" team. It was a fun, dynamic team, and I got to work across Product, Marketing, Design, and Engineering teams to create scalable, branded UI/UX experiences.
+
+I also proactively created scripts to increase our team's workflow and velocity, since our development was non-traditional (we weren’t developing traditional websites; instead, we had custom IDEs, unique local workflows, and niche code repository architectures to deal with). Fun fact: I was part of a key milestone at Google Store — the brand integration of Google Store and Google Nest products.
 
 INSERT NEST GIF HERE
 
-I worked for Kaiser Permanante on React.js front-ends. This was my first exposure to React since we weren't using it at Google, and an introduction to more traditional website development. I don't have access to the code and most of the websites were behind an authentication layer so I cna't showcase them, but here is a certificate of recogintion I received for one of our projects.
+I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
 INSERT KAISER IMAGE HERE, USE <IMG TAG>
 
-## Masters Degree
+## Master’s Degree
 
-While working full-time, I picked up a Master's Degree in Computer Science from University of Illinois Urbana Champaign. It was an amazing journey, shoutout to the school for providing me this opportunity. I had plenty of time because it was during COVID, so remote work efficiency increased my throughput. I did various projects all across computer science domains, including IoT, distrubuted systems, machine learning, statistics, and data visualization.
+While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity.
+
+I had plenty of time because it was during COVID, so remote work efficiency increased my throughput. I completed various projects across computer science domains, including IoT, distributed systems, machine learning, statistics, and data visualization.
 
 ## Mid Career
 
-Using all of my career momentum up to this point, I joined Zoom! This was during their post-COVID growth phase. It was an exciting time.
+Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time.
 
-[I joined the Zoom Apps team](https://marketplace.zoom.us/) which was an app store ecosystem that Zoom was building from scratch. I saw it go form 0 to 1, and was in a startup-like team at Zoom. I worked on various 1st party apps at Zoom. Here are some examples:
+[I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are some examples:
 
 ### Virtual Backgrounds App
 
@@ -52,6 +60,8 @@ Using all of my career momentum up to this point, I joined Zoom! This was during
 
 ## Thoughts And Ideas
 
-Interesting, when using ChatGPT I noticed that the UI doesn't have a "copy" button at the top of the response. This is annoying for wanting to copy the response without scrolilng down. I understand wy they may ahve designed it this way, the response has to fully generate before it's ideally usable, but first of all not necessarily and second of all someimtes I type a resopnse and let it generate and come backt o ti and just want to copy it without scrolilng all the way down or even reading it. Add "copy" to teh top. Gemini does this at least.
+When using ChatGPT, I noticed that the UI doesn’t have a "Copy" button at the top of the response. This is annoying when you want to copy the response without scrolling down. I understand why they may have designed it this way — the response has to fully generate before it's ideally usable — but first of all, not necessarily. And second, sometimes I type a response, let it generate, come back to it later, and just want to copy it without scrolling all the way down or even reading it. Add "Copy" to the top. Gemini does this, at least.
 
-Talk about copying chat soltuions, querying them. LLMs opened up unique use cases for "flows" we havent seen ebfore. People export their data at times. Some people ven lose conversation data. Furthermore, "storing" this infioramtion is a mess. Because it's tough to store certain parts of responses, someitmes you want your query stored as well, sometimes the entire response, sometimes the raw data of the response without the "LLM character" talking to you text in it. And heck, the eovlution of the conversatin over time gives emergence to certain vectors in the converastion that dynamcially evolve or devolve in usefuless over time. There is no simple way of querying this informatin, and storing it. Heck, I asked Claude recently to give me a rundown of possible soltuions, here is it's response if you're interested.
+LLMs opened up unique use cases for "flows" we haven’t seen before. People export their data at times. Some people even lose conversation data. Furthermore, storing this information is a mess. It’s tough to store certain parts of responses. Sometimes you want your query stored as well. Sometimes the entire response. Sometimes the raw data of the response without the "LLM character" talking to you text.
+
+And the evolution of the conversation over time gives emergence to certain vectors in the conversation that dynamically evolve (or devolve) in usefulness over time. There is no simple way of querying or storing this information. I even asked Claude recently to give me a rundown of possible solutions — here is its response if you're interested.
