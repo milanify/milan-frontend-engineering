@@ -36,27 +36,23 @@ I also proactively created scripts to increase our team's workflow and velocity,
 
 ![Google Store × Google Nest Integration](./nest-email.gif)
 
-I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
+After Google, I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
 <img src="./kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="600" />
 
 ## Master’s Degree
 
-While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity.
-
-I had plenty of time because it was during COVID, so remote work efficiency increased my throughput. I completed various projects across computer science domains, including IoT, distributed systems, machine learning, statistics, and data visualization.
+While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains, including IoT, distributed systems, machine learning, statistics, and data visualization.
 
 ## Mid Career
 
-Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time.
+Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are some samples:
 
-[I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team at Zoom. I worked on various first-party apps at Zoom. Here are some examples:
-
-### Virtual Backgrounds App
-
-### Timer App
-
-### Group Photo App
+<p align="center">
+  <img src="./vb-app.png" alt="Virtual Backgrounds App" width="30%" />
+  <img src="./timer-app.png" alt="Timer App" width="30%" />
+  <img src="./group-photo-app.png" alt="Group Photo App" width="30%" />
+</p>
 
 ## Thoughts And Ideas
 
