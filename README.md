@@ -2,7 +2,7 @@
 
 ## Intro
 
-Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge.
+Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge. So far in my career, I'm 60% front-end oriented 40% back-end oriented.
 
 ## Pre-Career Side Projects
 
@@ -70,6 +70,6 @@ I build frontend systems that make complex functionality feel simple, scalable, 
 
 I bring a systems-oriented mindset shaped by my background in engineering and computer science, with a strong focus on performance, usability, and maintainability. I think deeply about how software behaves across environments and how small details impact the overall user experience.
 
-I approach frontend engineering with a human-first mindset shaped by broad exposure to different environments and perspectives, which informs how I think about usability, accessibility, and design patterns at scale. I pay close attention to responsiveness and interaction details, because those are what build trust and make products feel reliable over time. At the same time, I have a strong appreciation for aesthetics—drawing from interests in fashion, art, photography, and visual composition—which shows up in how I think about balance, clarity, and polish in UI/UX. More fundamentally, I’m interested in systems and how complexity emerges, whether in software, mathematics, or broader conceptual frameworks, and I tend to approach problems from first principles with an emphasis on simplicity and coherence.. [One of my favorite Wikipedia articles is about mathematical beauty.](https://en.wikipedia.org/wiki/Mathematical_beauty)
+I approach frontend engineering with a human-first mindset shaped by broad exposure to different environments and perspectives, which informs how I think about usability, accessibility, and design patterns at scale. I pay close attention to responsiveness and interaction details, because those are what build trust and make products feel reliable over time. At the same time, I have a strong appreciation for aesthetics—drawing from interests in fashion, art, photography, and visual composition—which shows up in how I think about balance, clarity, and polish in UI/UX. More fundamentally, I’m interested in systems and how complexity emerges, whether in software, mathematics, or broader conceptual frameworks, and I tend to approach problems from first principles with an emphasis on simplicity and coherence. [One of my favorite Wikipedia articles is about mathematical beauty.](https://en.wikipedia.org/wiki/Mathematical_beauty)
 
 I’m particularly interested in the evolution of interfaces alongside AI, and in building products that make powerful systems feel natural and accessible to users.
