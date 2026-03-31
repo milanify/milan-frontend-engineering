@@ -60,7 +60,21 @@ Using all of my career momentum up to this point, I joined Zoom during their pos
 
 [The third app, Group Photo,](https://marketplace.zoom.us/apps/_M-iOa7hQBi0pn3aNhScGg) allows all participants in a meeting to take a picture together. This even scales to a high number of participants (1000+). The most fun part of this project was dealing with the math. I had to determine how to programmatically code an efficient grid of images that maintained a proper aspect ratio depending on the number of users. For example, with 2 participants the image is a rectangle. With 4 participants it's a square. For an odd number of participants, the rows and columns won’t have equal values.
 
-All of these apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to browser LocalStorage.
+<p align="center">
+  <img src="./images/music-app.png" alt="Virtual Backgrounds App" width="30%" />
+  <img src="./images/youtube-app.png" alt="Timer App" width="30%" />
+  <img src="./images/badges-app.png" alt="Group Photo App" width="30%" />
+</p>
+
+[The fourth app, Music,](https://marketplace.zoom.us/apps/WyRms5oLSPqEnYaMHq7zuA) allows users to collaboratively listen to music from a diverse selection of playlists to set the mood in meetings and events.
+
+[The fifth app, YouTube,](https://marketplace.zoom.us/apps/QgzL2TMWQoGokzGMtQiUow) allows participants to watch videos together. By default, all participants can control playback, add to a shared meeting queue, and more. The best part of this project was working on the shared state items, like the meeting queue, as well as synchronization of video playback.
+
+[The sixth app, Badges,](https://marketplace.zoom.us/apps/tCV7iwmZTAedLAOy7A9Adw) allows meeting hosts to improve engagement by distributing badges to participants for engagement and globally visible meeting state tracking. A simple yet effective app!
+
+Finally, I also worked on [the Google Drive App](https://marketplace.zoom.us/apps/epJsq-eFTl-O-PIriFckcg) and [the Microsoft 365 App](https://marketplace.zoom.us/apps/_9cgrHvRT9iKiRF4QC1H-w). Both of these apps are difficult to show screenshots of because they deal with personal data, but basically they allow users to seamlessly manage, create, and share cloud files with partcipants. This project was one of the more difficult integrations to complete because Google and Microsoft had their own way of handling: development accounts, API integrations, and just other behavior that made our front-end experience and back-end integration complicated. Despite these challenges, our team eventually managed to build two apps that behave smoothly and similarly.
+
+All of the above apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to browser LocalStorage.
 
 In addition to building 1st party apps, I also supported 3rd party developers in building their apps — anyone from individual developers to large enterprise companies such as Figma, Notion, and Meta. Furthermore, I worked on a key architectural piece that underpinned the entire platform: the [Zoom Apps JavaScript SDK](https://appssdk.zoom.us/). This is what allows the Zoom Desktop client, written in C++, to interface with all of our JavaScript web apps. I worked on adding new methods to the SDK, deprecating old methods, and publishing releases internally, to NPM, and to GitHub.
 
