@@ -2,7 +2,7 @@
 
 ## Intro
 
-Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge. So far in my career, I'm 60% front-end oriented 40% back-end oriented.
+Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge. Currently in my career, I'm 60% front-end oriented 40% back-end oriented.
 
 ## Pre-Career Side Projects
 
@@ -44,7 +44,7 @@ After Google, I worked for Kaiser Permanente on React.js frontends. This was my 
 
 While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains — including IoT, distributed systems, machine learning, statistics, and data visualization.
 
-## Mid Career (60% front-end, 30% back-end)
+## Mid Career (70% front-end, 30% back-end)
 
 Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team. I worked on various first-party apps at Zoom, here are sample images of a few of the apps I worked on:
 
