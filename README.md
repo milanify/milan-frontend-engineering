@@ -34,11 +34,11 @@ Here, I created interactive emails (see below). Our team was considered an "Emai
 
 I also proactively created scripts to increase our team's workflow and velocity, since our development was non-traditional (we weren’t developing traditional websites; instead, we had custom IDEs, unique local workflows, and niche code repository architectures to deal with). Fun fact: I was part of a key milestone at Google Store — the brand integration of Google Store and Google Nest products. Below is an example of a dynamic email we developed, which we typically favored over static ones due to higher levels of engagement.
 
-![Google Store × Google Nest Integration](./nest-email.gif)
+![Google Store × Google Nest Integration](./images/nest-email.gif)
 
 After Google, I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
-<img src="./kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="600" />
+<img src="./images/kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="600" />
 
 ## Master’s Degree
 
@@ -49,9 +49,9 @@ While working full-time, I earned a Master’s Degree in Computer Science from t
 Using all of my career momentum up to this point, I joined Zoom during their post-COVID growth phase. It was an exciting time! [I joined the Zoom Apps team](https://marketplace.zoom.us/), an app store ecosystem that Zoom was building from scratch. I saw it go from 0 to 1 and was part of a startup-like team. I worked on various first-party apps at Zoom, here are sample images of a few of the apps I worked on:
 
 <p align="center">
-  <img src="./vb-app.png" alt="Virtual Backgrounds App" width="30%" />
-  <img src="./timer-app.png" alt="Timer App" width="30%" />
-  <img src="./group-photo-app.png" alt="Group Photo App" width="30%" />
+  <img src="./images/vb-app.png" alt="Virtual Backgrounds App" width="30%" />
+  <img src="./images/timer-app.png" alt="Timer App" width="30%" />
+  <img src="./images/group-photo-app.png" alt="Group Photo App" width="30%" />
 </p>
 
 [The first app, Virtual Backgrounds,](https://marketplace.zoom.us/apps/bds99mN4S_i7ktJINgsNXw) allows a user to search for high-quality images and set them as their background. It's a simple and intuitive app for querying images. I built it with responsiveness, infinite scroll, and efficient API querying and data modeling libaries like React-Redux.
