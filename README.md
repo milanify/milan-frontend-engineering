@@ -76,7 +76,7 @@ Finally, I also worked on [the Google Drive App](https://marketplace.zoom.us/app
 
 All of the above apps were developed with React.js frontends and Node.js backends. AWS was our cloud infrastructure provider. The databases we used depended on the type of app — anything from Redis to Postgres to Lambda functions to browser LocalStorage.
 
-In addition to building 1st party apps, I also supported 3rd party developers in building their apps — anyone from individual developers to large enterprise companies such as Figma, Notion, and Meta. Furthermore, I worked on a key architectural piece that underpinned the entire platform: the [Zoom Apps JavaScript SDK](https://appssdk.zoom.us/). This is what allows the Zoom Desktop client, written in C++, to interface with all of our JavaScript web apps. I worked on adding new methods to the SDK, deprecating old methods, and publishing releases internally, to NPM, and to GitHub.
+In addition to building 1st party apps, I also supported 3rd party developers in building their apps — anyone from individual developers to large enterprise companies such as Figma, Notion, and Slack, Meta, etc. Furthermore, I worked on a key architectural piece that underpinned the entire platform: the [Zoom Apps JavaScript SDK](https://appssdk.zoom.us/). This is what allows the Zoom Desktop client, written in C++, to interface with all of our JavaScript web apps. I worked on adding new methods to the SDK, deprecating old methods, and publishing releases internally, to NPM, and to GitHub.
 
 ## Conclusion
 
