@@ -34,7 +34,7 @@ Here, I created interactive emails (see below). Our team was considered an "Emai
 
 I also proactively created scripts to increase our team's workflow and velocity, since our development was non-traditional (we weren’t developing traditional websites; instead, we had custom IDEs, unique local workflows, and niche code repository architectures to deal with). Fun fact: I was part of a key milestone at Google Store — the brand integration of Google Store and Google Nest products. Below is an example of a dynamic email we developed, which we typically favored over static ones due to higher levels of engagement.
 
-![Google Store × Google Nest Integration](./images/nest-email.gif)
+<img src="./images/nest-email.gif" alt="Google Store × Google Nest Integration" width="420" />
 
 After Google, I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
