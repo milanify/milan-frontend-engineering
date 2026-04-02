@@ -2,7 +2,7 @@
 
 ## Intro
 
-Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge. Currently in my career, I'm 60% front-end oriented 40% back-end oriented.
+Since the beginning of my software engineering career, I've always been more frontend-development oriented. This repo serves as a developmental arc showcase (and a highlight reel) of my frontend knowledge. Currently, I'm 60% front-end oriented 40% back-end oriented.
 
 ## Pre-Career Side Projects
 
@@ -38,11 +38,11 @@ I also proactively created scripts to increase our team's workflow and velocity,
 
 After Google, I worked for Kaiser Permanente on React.js frontends. This was my first exposure to React since we weren’t using it at Google, and an introduction to more traditional website development. I don’t have access to the code, and most of the websites were behind an authentication layer, so I can’t showcase them. However, here is a certificate of recognition I received for one of our projects.
 
-<img src="./images/kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="600" />
+<img src="./images/kaiser-cert.png" alt="Kaiser Permanente Certificate of Recognition" width="420" />
 
 ## Master’s Degree
 
-While working full-time, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains — including IoT, distributed systems, machine learning, statistics, and data visualization.
+While working full-time, and during COVID lockdowns, I earned a Master’s Degree in Computer Science from the University of Illinois Urbana-Champaign. It was an amazing journey — shoutout to the school for providing me this opportunity. I completed various projects across computer science domains — including IoT, distributed systems, machine learning, statistics, and data visualization.
 
 ## Mid Career (70% front-end, 30% back-end)
 
